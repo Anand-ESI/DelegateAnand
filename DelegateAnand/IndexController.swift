@@ -1,6 +1,6 @@
 //
 //  IndexViewController.swift
-//  DelegateSiva
+//  Delegate
 //
 //  Created by Prabhakar Annavi on 18/02/17.
 //  Copyright © 2017 Eoxys Systems India. All rights reserved.
