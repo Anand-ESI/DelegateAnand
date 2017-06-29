@@ -1,0 +1,6 @@
+framework module Pods_DelegateAnand {
+  umbrella header "Pods-DelegateAnand-umbrella.h"
+
+  export *
+  module * { export * }
+}

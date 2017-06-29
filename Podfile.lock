@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.3.0)
+  - Material (2.4.13):
+    - Material/Core (= 2.4.13)
+  - Material/Core (2.4.13)
+  - SwiftyJSON (3.1.4)
+  - SwipeableTabBarController (0.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2)
+  - Material (~> 2.4)
+  - SwiftyJSON (~> 3.1)
+  - SwipeableTabBarController
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  Material: a056f69c8f9c65ace26bb5ef9cb0823d49b787d9
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwipeableTabBarController: e3a6a284241b0978edddb9a18ba4ab4867dd44b0
+
+PODFILE CHECKSUM: 0541e49eae3004737a3864a72d08e09d7b45f90f
+
+COCOAPODS: 1.2.0
